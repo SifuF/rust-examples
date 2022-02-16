@@ -1,2 +1,2 @@
 # rust-examples
-Solutions to the Rust Book example problems
+Solutions to the Rust Book example problems.
